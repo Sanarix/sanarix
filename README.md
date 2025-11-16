@@ -13,7 +13,6 @@
 ![Nginx](https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000)
 ![Vue](https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000)
 ![Webpack](https://img.icons8.com/?size=100&id=sOWbK4N3cxGh&format=png&color=000000)
-![Docker](https://img.icons8.com/?size=100&id=22813&format=png&color=000000)
 
 ## Я уже сделал несколько учебных проектов, и даже что-то вроде "бизнес портала" для реального заказчика.
 *Правда код находится в приватном репозитории, но если захотите посмотреть просто скажите* :wink:
