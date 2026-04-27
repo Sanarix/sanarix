@@ -1,7 +1,6 @@
 ## Приветствую на моей странице!
-:exclamation:На данный момент я нахожусь в поисках работы.:exclamation:
 
-## Эти технологии я применяю на практике:
+## С некоторыми технологиями я работаю каждый день, с некоторыми реже:
 ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
 ![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
 ![Redux Toolkit](https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000)
@@ -9,16 +8,10 @@
 ![Material UI](https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000)
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 
-## А с этими знаком, и кое где даже использовал:
+## Кое где и такое использовал
 ![Nginx](https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000)
 ![Vue](https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000)
 ![Webpack](https://img.icons8.com/?size=100&id=sOWbK4N3cxGh&format=png&color=000000)
-
-## Моё предыдущее место работы - Университет Синергия (https://synergy.ru/), тьютор.
-В мои обязанности входило:
-* Ответы на вопросы обучающихся в рамках программы
-* Проверка домашних и практических работ
-* Помощь в составлении программы обучения и составление домашних заданий
 
 ## Заходите на мой сайт. Оставляю для Вас ссылку :
 [Мой сайт визитка](https://korsakovla.web.app/)
