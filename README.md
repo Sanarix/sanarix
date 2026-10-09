@@ -11,7 +11,7 @@ API магазина дорабатывал на NestJS и PostgreSQL.
 
 ## Стек
 
-React · TypeScript · Next.js · Redux Toolkit · RTK Query · Material UI
+React · TypeScript · Next.js · Redux Toolkit · RTK Query · Material UI · 
 NestJS · PostgreSQL · Git · Figma
 
 ## Контакты
